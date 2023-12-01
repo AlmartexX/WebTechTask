@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tlvX7vM42gn6EuOUCfz3ZRlZIYR3KQJK/urVvOp/dUZ2aiugKM1Lk4eMXdyaK1MUqyyYLZtTsfLUkExOHE1PeQ==",
+  "dgSpecHash": "b/Jxcr5g0uLec9CJ76Qy9dC0kt49jSd//p1757WStrAqSixZZIgNNc/YieFp1INy86+M3LOZypUlQ3ynn+gVhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ymkaa\\Documents\\work\\Таски\\Web технолгии\\VebTechTask\\VebTechTask.DAL\\VebTechTask.DAL.csproj",
+  "projectFilePath": "C:\\Users\\ymkaa\\Documents\\GitHub\\WebTechTask\\VebTechTask\\VebTechTask.DAL\\VebTechTask.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ymkaa\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\ymkaa\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

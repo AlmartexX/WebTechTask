@@ -31,6 +31,11 @@ namespace VebTechTask.BLL.AutoMapper
             return _mapper.Map<User>(newUserDto);
         }
 
+        public User MapToEntity(LoginUserDTO newUserDto)
+        {
+            return _mapper.Map<User>(newUserDto);
+        }
+
         public void MapToEntity(UpdateUserDTO userDTO, User existingUser)
         {
             _mapper.Map(userDTO, existingUser);

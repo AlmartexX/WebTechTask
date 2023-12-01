@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QC0IDtAOXBuLvpS4wTxoOn9aBBEtmeIvnbQ34CJDzQtZJds0mi+qkfFkz4mpovgB/tllBD/43LdRC0/rgAE8RQ==",
+  "dgSpecHash": "4m0/6IkGRt2YomHgpnPWhaOtF38+n8FggnnufVYGEuD3dEJrrQdZrklJYq85pdgqGnpKhMcRC8ldgYJw5SQppQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ymkaa\\Documents\\work\\Таски\\Web технолгии\\VebTechTask\\VebTechTask.BLL\\VebTechTask.BLL.csproj",
+  "projectFilePath": "C:\\Users\\ymkaa\\Documents\\GitHub\\WebTechTask\\VebTechTask\\VebTechTask.BLL\\VebTechTask.BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ymkaa\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ymkaa\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",

@@ -13,3 +13,18 @@ C:\Users\ymkaa\Documents\work\Таски\Web технолгии\VebTechTask\VebT
 C:\Users\ymkaa\Documents\work\Таски\Web технолгии\VebTechTask\VebTechTask.BLL\obj\Debug\net6.0\refint\VebTechTask.BLL.dll
 C:\Users\ymkaa\Documents\work\Таски\Web технолгии\VebTechTask\VebTechTask.BLL\obj\Debug\net6.0\VebTechTask.BLL.pdb
 C:\Users\ymkaa\Documents\work\Таски\Web технолгии\VebTechTask\VebTechTask.BLL\obj\Debug\net6.0\ref\VebTechTask.BLL.dll
+C:\Users\ymkaa\Documents\GitHub\WebTechTask\VebTechTask\VebTechTask.BLL\bin\Debug\net6.0\VebTechTask.BLL.deps.json
+C:\Users\ymkaa\Documents\GitHub\WebTechTask\VebTechTask\VebTechTask.BLL\bin\Debug\net6.0\VebTechTask.BLL.dll
+C:\Users\ymkaa\Documents\GitHub\WebTechTask\VebTechTask\VebTechTask.BLL\bin\Debug\net6.0\VebTechTask.BLL.pdb
+C:\Users\ymkaa\Documents\GitHub\WebTechTask\VebTechTask\VebTechTask.BLL\bin\Debug\net6.0\VebTechTask.DAL.dll
+C:\Users\ymkaa\Documents\GitHub\WebTechTask\VebTechTask\VebTechTask.BLL\bin\Debug\net6.0\VebTechTask.DAL.pdb
+C:\Users\ymkaa\Documents\GitHub\WebTechTask\VebTechTask\VebTechTask.BLL\obj\Debug\net6.0\VebTechTask.BLL.csproj.AssemblyReference.cache
+C:\Users\ymkaa\Documents\GitHub\WebTechTask\VebTechTask\VebTechTask.BLL\obj\Debug\net6.0\VebTechTask.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ymkaa\Documents\GitHub\WebTechTask\VebTechTask\VebTechTask.BLL\obj\Debug\net6.0\VebTechTask.BLL.AssemblyInfoInputs.cache
+C:\Users\ymkaa\Documents\GitHub\WebTechTask\VebTechTask\VebTechTask.BLL\obj\Debug\net6.0\VebTechTask.BLL.AssemblyInfo.cs
+C:\Users\ymkaa\Documents\GitHub\WebTechTask\VebTechTask\VebTechTask.BLL\obj\Debug\net6.0\VebTechTask.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ymkaa\Documents\GitHub\WebTechTask\VebTechTask\VebTechTask.BLL\obj\Debug\net6.0\VebTechTask.BLL.csproj.CopyComplete
+C:\Users\ymkaa\Documents\GitHub\WebTechTask\VebTechTask\VebTechTask.BLL\obj\Debug\net6.0\VebTechTask.BLL.dll
+C:\Users\ymkaa\Documents\GitHub\WebTechTask\VebTechTask\VebTechTask.BLL\obj\Debug\net6.0\refint\VebTechTask.BLL.dll
+C:\Users\ymkaa\Documents\GitHub\WebTechTask\VebTechTask\VebTechTask.BLL\obj\Debug\net6.0\VebTechTask.BLL.pdb
+C:\Users\ymkaa\Documents\GitHub\WebTechTask\VebTechTask\VebTechTask.BLL\obj\Debug\net6.0\ref\VebTechTask.BLL.dll

@@ -9,10 +9,8 @@ namespace VebTechTask.UI.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    [Authorize]
     public class UserController : ControllerBase
     {
-
         private readonly IUserService _userService;
         public UserController(IUserService service)
         {
@@ -20,8 +18,8 @@ namespace VebTechTask.UI.Controllers
                      ?? throw new ArgumentNullException();
         }
 
-
         [HttpGet]
+        [Authorize(Policy = "UserPolicy")]
         [ProducesResponseType(typeof(List<UserDTO>), StatusCodes.Status200OK)]
         [SwaggerOperation(
          Summary = "Get a list of users with pagination, sorting, and filtering options.",
@@ -35,10 +33,10 @@ namespace VebTechTask.UI.Controllers
             }
 
             return StatusCode(StatusCodes.Status200OK, users);
-
         }
 
         [HttpGet("{id}")]
+        [Authorize(Policy = "UserPolicy")]
         public async Task<ActionResult<UserDTO>> GetUserByIdAsync(int? id)
         {
             var user = await _userService.GetUserByIdAsync(id);
@@ -48,10 +46,10 @@ namespace VebTechTask.UI.Controllers
             }
 
             return StatusCode(StatusCodes.Status200OK, user);
-
         }
 
         [HttpPost("{userId}/roles")]
+        [Authorize(Policy = "AdminPolicy")]
         public IActionResult AddRoleToUser(int userId, [FromBody] string role)
         {
             var user = _userService.AddRoleToUserAsync(userId, role);
@@ -64,6 +62,7 @@ namespace VebTechTask.UI.Controllers
         }
 
         [HttpPut]
+        [Authorize(Policy = "AdminPolicy")]
         public async Task<ActionResult> UpdateUserAsync(UpdateUserDTO updateUser, int? id)
         {
             var user = await _userService.UpdateUserAsync(updateUser, id);
@@ -76,6 +75,7 @@ namespace VebTechTask.UI.Controllers
         }
 
         [HttpDelete("{id}")]
+        [Authorize(Policy = "AdminPolicy")]
         public async Task<ActionResult> DeleteUserAsync(int? id)
         {
             (bool status, string message) = await _userService.DeleteUserAsync(id);

@@ -16,6 +16,8 @@ namespace VebTechTask.BLL.AutoMapper
             CreateMap<Role, RoleDTO>();
             CreateMap<CreateUserDTO, User>();
             CreateMap<UpdateUserDTO, User>();
+
+            CreateMap<LoginUserDTO, UserDTO>();
             
             CreateMap<UserQueryParameters, UserQueryParametersDTO>();
             CreateMap<UserQueryParametersDTO, UserQueryParameters>();

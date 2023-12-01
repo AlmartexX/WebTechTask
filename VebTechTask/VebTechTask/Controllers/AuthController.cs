@@ -1,8 +1,4 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.IdentityModel.Tokens;
-using System.IdentityModel.Tokens.Jwt;
-using System.Security.Claims;
-using System.Text;
 using VebTechTask.BLL.DTO;
 using VebTechTask.BLL.Services.Inrefaces;
 
@@ -11,13 +7,14 @@ namespace VebTechTask.UI.Controllers
     public class AuthController : ControllerBase
     {
         private readonly IAuthService _authService;
-        private readonly string _secretKey;
+        private readonly IConfiguration _configuration;
 
         public AuthController(IAuthService userService, IConfiguration configuration)
         {
             _authService = userService
                 ?? throw new ArgumentNullException();
-            _secretKey = configuration["Jwt:SecretKey"];
+            _configuration = configuration 
+                ?? throw new ArgumentNullException(nameof(configuration));
         }
 
         [HttpPost("register")]
@@ -35,25 +32,14 @@ namespace VebTechTask.UI.Controllers
         }
 
         [HttpPost("login")]
-        public async Task<IActionResult> Login([FromBody] UserDTO userDTO)
+        public async Task<IActionResult> Login(LoginUserDTO userDTO)
         {
-            var result = await _authService.Authenticate(userDTO.Email, userDTO.Password);
+            var secretKey = _configuration["Jwt:SecretKey"];
+            var token = await _authService.Authenticate(userDTO.Email, userDTO.Password, secretKey);
 
-            if (result == true)
+            if (!string.IsNullOrEmpty(token))
             {
-                var secretKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_secretKey));
-                var signinCredentials = new SigningCredentials(secretKey, SecurityAlgorithms.HmacSha256);
-
-                var tokenOptions = new JwtSecurityToken(
-                    issuer: "WebTech",
-                    audience: "https://localhost:5001",
-                    claims: new List<Claim>(),
-                    expires: DateTime.Now.AddMinutes(5),
-                    signingCredentials: signinCredentials
-                );
-
-                var tokenString = new JwtSecurityTokenHandler().WriteToken(tokenOptions);
-                return Ok(new { Token = tokenString });
+                return Ok(new { Token = token });
             }
             else
             {

@@ -12,3 +12,17 @@ C:\Users\ymkaa\Documents\work\Таски\Web технолгии\VebTechTask\VebT
 C:\Users\ymkaa\Documents\work\Таски\Web технолгии\VebTechTask\VebTechTask.DAL\obj\Debug\net6.0\ref\VebTechTask.DAL.dll
 C:\Users\ymkaa\Documents\work\Таски\Web технолгии\VebTechTask\VebTechTask.DAL\bin\Debug\net6.0\VebTechTask.DAL.runtimeconfig.json
 C:\Users\ymkaa\Documents\work\Таски\Web технолгии\VebTechTask\VebTechTask.DAL\obj\Debug\net6.0\VebTechTask.DAL.genruntimeconfig.cache
+C:\Users\ymkaa\Documents\GitHub\WebTechTask\VebTechTask\VebTechTask.DAL\bin\Debug\net6.0\VebTechTask.DAL.deps.json
+C:\Users\ymkaa\Documents\GitHub\WebTechTask\VebTechTask\VebTechTask.DAL\bin\Debug\net6.0\VebTechTask.DAL.runtimeconfig.json
+C:\Users\ymkaa\Documents\GitHub\WebTechTask\VebTechTask\VebTechTask.DAL\bin\Debug\net6.0\VebTechTask.DAL.dll
+C:\Users\ymkaa\Documents\GitHub\WebTechTask\VebTechTask\VebTechTask.DAL\bin\Debug\net6.0\VebTechTask.DAL.pdb
+C:\Users\ymkaa\Documents\GitHub\WebTechTask\VebTechTask\VebTechTask.DAL\obj\Debug\net6.0\VebTechTask.DAL.csproj.AssemblyReference.cache
+C:\Users\ymkaa\Documents\GitHub\WebTechTask\VebTechTask\VebTechTask.DAL\obj\Debug\net6.0\VebTechTask.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ymkaa\Documents\GitHub\WebTechTask\VebTechTask\VebTechTask.DAL\obj\Debug\net6.0\VebTechTask.DAL.AssemblyInfoInputs.cache
+C:\Users\ymkaa\Documents\GitHub\WebTechTask\VebTechTask\VebTechTask.DAL\obj\Debug\net6.0\VebTechTask.DAL.AssemblyInfo.cs
+C:\Users\ymkaa\Documents\GitHub\WebTechTask\VebTechTask\VebTechTask.DAL\obj\Debug\net6.0\VebTechTask.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ymkaa\Documents\GitHub\WebTechTask\VebTechTask\VebTechTask.DAL\obj\Debug\net6.0\VebTechTask.DAL.dll
+C:\Users\ymkaa\Documents\GitHub\WebTechTask\VebTechTask\VebTechTask.DAL\obj\Debug\net6.0\refint\VebTechTask.DAL.dll
+C:\Users\ymkaa\Documents\GitHub\WebTechTask\VebTechTask\VebTechTask.DAL\obj\Debug\net6.0\VebTechTask.DAL.pdb
+C:\Users\ymkaa\Documents\GitHub\WebTechTask\VebTechTask\VebTechTask.DAL\obj\Debug\net6.0\VebTechTask.DAL.genruntimeconfig.cache
+C:\Users\ymkaa\Documents\GitHub\WebTechTask\VebTechTask\VebTechTask.DAL\obj\Debug\net6.0\ref\VebTechTask.DAL.dll

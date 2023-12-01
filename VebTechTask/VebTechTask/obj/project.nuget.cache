@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ghKzopZiBQnBmfhKwldcC3czMJI2ce4sn6u8c5og+LZYay3ggrp1+3UuUwM2ypYpMs2DWvwyEYBugZa7ZLtQDQ==",
+  "dgSpecHash": "fxvn/Io5yIVKddBU6EJtLN9NtvM0UjudAXC+l39YqWtEh9aIla7LKWRjI/iOUryEJBBu/QBk7tskkKd1CJ6zVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ymkaa\\Documents\\work\\Таски\\Web технолгии\\VebTechTask\\VebTechTask\\VebTechTask.UI.csproj",
+  "projectFilePath": "C:\\Users\\ymkaa\\Documents\\GitHub\\WebTechTask\\VebTechTask\\VebTechTask\\VebTechTask.UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ymkaa\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ymkaa\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

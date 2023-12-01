@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ymkaa\\Documents\\work\\Таски\\Web технолгии\\VebTechTask\\VebTechTask\\VebTechTask.UI.csproj": {}
+    "C:\\Users\\ymkaa\\Documents\\GitHub\\WebTechTask\\VebTechTask\\VebTechTask\\VebTechTask.UI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ymkaa\\Documents\\work\\Таски\\Web технолгии\\VebTechTask\\VebTechTask.BLL\\VebTechTask.BLL.csproj": {
+    "C:\\Users\\ymkaa\\Documents\\GitHub\\WebTechTask\\VebTechTask\\VebTechTask.BLL\\VebTechTask.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ymkaa\\Documents\\work\\Таски\\Web технолгии\\VebTechTask\\VebTechTask.BLL\\VebTechTask.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\ymkaa\\Documents\\GitHub\\WebTechTask\\VebTechTask\\VebTechTask.BLL\\VebTechTask.BLL.csproj",
         "projectName": "VebTechTask.BLL",
-        "projectPath": "C:\\Users\\ymkaa\\Documents\\work\\Таски\\Web технолгии\\VebTechTask\\VebTechTask.BLL\\VebTechTask.BLL.csproj",
+        "projectPath": "C:\\Users\\ymkaa\\Documents\\GitHub\\WebTechTask\\VebTechTask\\VebTechTask.BLL\\VebTechTask.BLL.csproj",
         "packagesPath": "C:\\Users\\ymkaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ymkaa\\Documents\\work\\Таски\\Web технолгии\\VebTechTask\\VebTechTask.BLL\\obj\\",
+        "outputPath": "C:\\Users\\ymkaa\\Documents\\GitHub\\WebTechTask\\VebTechTask\\VebTechTask.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ymkaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ymkaa\\Documents\\work\\Таски\\Web технолгии\\VebTechTask\\VebTechTask.DAL\\VebTechTask.DAL.csproj": {
-                "projectPath": "C:\\Users\\ymkaa\\Documents\\work\\Таски\\Web технолгии\\VebTechTask\\VebTechTask.DAL\\VebTechTask.DAL.csproj"
+              "C:\\Users\\ymkaa\\Documents\\GitHub\\WebTechTask\\VebTechTask\\VebTechTask.DAL\\VebTechTask.DAL.csproj": {
+                "projectPath": "C:\\Users\\ymkaa\\Documents\\GitHub\\WebTechTask\\VebTechTask\\VebTechTask.DAL\\VebTechTask.DAL.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\ymkaa\\Documents\\work\\Таски\\Web технолгии\\VebTechTask\\VebTechTask.DAL\\VebTechTask.DAL.csproj": {
+    "C:\\Users\\ymkaa\\Documents\\GitHub\\WebTechTask\\VebTechTask\\VebTechTask.DAL\\VebTechTask.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ymkaa\\Documents\\work\\Таски\\Web технолгии\\VebTechTask\\VebTechTask.DAL\\VebTechTask.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\ymkaa\\Documents\\GitHub\\WebTechTask\\VebTechTask\\VebTechTask.DAL\\VebTechTask.DAL.csproj",
         "projectName": "VebTechTask.DAL",
-        "projectPath": "C:\\Users\\ymkaa\\Documents\\work\\Таски\\Web технолгии\\VebTechTask\\VebTechTask.DAL\\VebTechTask.DAL.csproj",
+        "projectPath": "C:\\Users\\ymkaa\\Documents\\GitHub\\WebTechTask\\VebTechTask\\VebTechTask.DAL\\VebTechTask.DAL.csproj",
         "packagesPath": "C:\\Users\\ymkaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ymkaa\\Documents\\work\\Таски\\Web технолгии\\VebTechTask\\VebTechTask.DAL\\obj\\",
+        "outputPath": "C:\\Users\\ymkaa\\Documents\\GitHub\\WebTechTask\\VebTechTask\\VebTechTask.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ymkaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -158,14 +158,14 @@
         }
       }
     },
-    "C:\\Users\\ymkaa\\Documents\\work\\Таски\\Web технолгии\\VebTechTask\\VebTechTask\\VebTechTask.UI.csproj": {
+    "C:\\Users\\ymkaa\\Documents\\GitHub\\WebTechTask\\VebTechTask\\VebTechTask\\VebTechTask.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ymkaa\\Documents\\work\\Таски\\Web технолгии\\VebTechTask\\VebTechTask\\VebTechTask.UI.csproj",
+        "projectUniqueName": "C:\\Users\\ymkaa\\Documents\\GitHub\\WebTechTask\\VebTechTask\\VebTechTask\\VebTechTask.UI.csproj",
         "projectName": "VebTechTask.UI",
-        "projectPath": "C:\\Users\\ymkaa\\Documents\\work\\Таски\\Web технолгии\\VebTechTask\\VebTechTask\\VebTechTask.UI.csproj",
+        "projectPath": "C:\\Users\\ymkaa\\Documents\\GitHub\\WebTechTask\\VebTechTask\\VebTechTask\\VebTechTask.UI.csproj",
         "packagesPath": "C:\\Users\\ymkaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ymkaa\\Documents\\work\\Таски\\Web технолгии\\VebTechTask\\VebTechTask\\obj\\",
+        "outputPath": "C:\\Users\\ymkaa\\Documents\\GitHub\\WebTechTask\\VebTechTask\\VebTechTask\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ymkaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -182,8 +182,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ymkaa\\Documents\\work\\Таски\\Web технолгии\\VebTechTask\\VebTechTask.BLL\\VebTechTask.BLL.csproj": {
-                "projectPath": "C:\\Users\\ymkaa\\Documents\\work\\Таски\\Web технолгии\\VebTechTask\\VebTechTask.BLL\\VebTechTask.BLL.csproj"
+              "C:\\Users\\ymkaa\\Documents\\GitHub\\WebTechTask\\VebTechTask\\VebTechTask.BLL\\VebTechTask.BLL.csproj": {
+                "projectPath": "C:\\Users\\ymkaa\\Documents\\GitHub\\WebTechTask\\VebTechTask\\VebTechTask.BLL\\VebTechTask.BLL.csproj"
               }
             }
           }

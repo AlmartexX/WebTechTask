@@ -2898,11 +2898,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ymkaa\\Documents\\work\\Таски\\Web технолгии\\VebTechTask\\VebTechTask.DAL\\VebTechTask.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\ymkaa\\Documents\\GitHub\\WebTechTask\\VebTechTask\\VebTechTask.DAL\\VebTechTask.DAL.csproj",
       "projectName": "VebTechTask.DAL",
-      "projectPath": "C:\\Users\\ymkaa\\Documents\\work\\Таски\\Web технолгии\\VebTechTask\\VebTechTask.DAL\\VebTechTask.DAL.csproj",
+      "projectPath": "C:\\Users\\ymkaa\\Documents\\GitHub\\WebTechTask\\VebTechTask\\VebTechTask.DAL\\VebTechTask.DAL.csproj",
       "packagesPath": "C:\\Users\\ymkaa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ymkaa\\Documents\\work\\Таски\\Web технолгии\\VebTechTask\\VebTechTask.DAL\\obj\\",
+      "outputPath": "C:\\Users\\ymkaa\\Documents\\GitHub\\WebTechTask\\VebTechTask\\VebTechTask.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ymkaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
